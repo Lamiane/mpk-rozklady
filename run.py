@@ -43,7 +43,7 @@ for link in links:
 
 
 # making times sorted and valid for pandas
-data = np.chararray(shape=(24, len(schedules.keys())), itemsize=10, unicode=True )
+data = np.chararray(shape=(24, len(schedules.keys())), itemsize=60, unicode=True )
 
 for line_index, line in enumerate(sorted([int(i) for i in schedules.keys()])):
     times = schedules[str(line)]
