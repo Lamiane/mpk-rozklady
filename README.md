@@ -1,6 +1,6 @@
 # MPK Rozkłady
 
-This script downloads schedules from [MPK]{http://www.mpk.krakow.pl/} site, parses them and saves as a csv.
+This script downloads schedules from [MPK](http://www.mpk.krakow.pl/) site, parses them and saves as a csv.
 
 ## Installation
 Will need:
@@ -9,9 +9,8 @@ Will need:
 * urlllib
 
 ## Usage
-Cupy the urls with timetables of interest into the `links.txt` file (one url per line). There cannot be multiple links with the schedule of the same line.
+Copy the urls with timetables of interest into the `linki.txt` file (one url per line). There cannot be multiple links with the schedule of the same line.
 
 Run `python run.py`, the schedules will be saved to `rozklady.csv`.
 
-Sample `links.txt` and generated `rozklady.csv` are provided. Have fun.
-
+Sample `linki.txt` and generated `rozklady.csv` are provided. Have fun.
