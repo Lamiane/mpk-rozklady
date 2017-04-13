@@ -1,0 +1,5 @@
+http://m.rozklady.mpk.krakow.pl/Point.aspx?line=207&point=8943&variant=1001828
+http://m.rozklady.mpk.krakow.pl/Point.aspx?line=227&point=8943&variant=1001828
+http://m.rozklady.mpk.krakow.pl/Point.aspx?line=237&point=8943&variant=1001828
+http://m.rozklady.mpk.krakow.pl/Point.aspx?line=267&point=8943&variant=1001828
+http://m.rozklady.mpk.krakow.pl/Point.aspx?line=297&point=8943&variant=1001828
